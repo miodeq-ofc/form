@@ -20,7 +20,7 @@ function updateCountdown() {
 function redirect() {
     if (!isRedirecting) {
         isRedirecting = true;
-        window.location.href = 'https://mateusz-tomaszek.pl/';
+        window.location.href = 'https://miodeq-ofc.github.io/page/';
     }
 }
 
